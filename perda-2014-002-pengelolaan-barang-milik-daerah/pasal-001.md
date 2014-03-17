@@ -1,0 +1,40 @@
+# Pasal 1
+Dalam Peraturan Daerah ini yang dimaksud dengan :
+1. Daerah adalah Provinsi Sulawesi Utara;
+2. Pemerintah Daerah adalah Gubernur beserta Perangkat Daerah sebagai unsur penyelenggara pemerintahan Daerah;
+3. Gubernur adalah Gubernur Sulawesi Utara;
+4. Dewan Perwakilan Rakyat Daerah, yang selanjutnya disebut DPRD adalah DPRD Provinsi Sulawesi Utara sebagai unsur penyelenggara pemerintahan Daerah;
+5. Barang Milik Daerah ada semua barang yang dibeli atau diperoleh atas beban Anggaran Pendapatan dan Belanja Daerah atau perolehan lainnya yang sah;
+6. Pengelola barang milik daerah selanjutnya disebut pengelola adalah pejabat yang berwenang dan bertanggung jawab melakukan koordinasi pengelolaan barang milik derah;
+7. Pembantu pengelola barang milik daerah selanjutnya disebut pembantu pengelola adalah pejabat yang bertanggungjawab mengkoordinir penyelenggaraan pengelolaan barang milik daerah yang ada pada SKPD;
+8. Pengguna barang milik daerah selanjutnya disebut pengguna adalah pejabat pemegang kewenangan penggunaan barang milik daerah;
+9. Kuasa pengguna barang milik daerah adalah kepala satuan kerja atau pejabat yang ditunjuk oleh pengguna untuk menggunakan barang milik daerah yang berada dalam penguasaannya;
+10. Penyimpan barang milik daerah adalah pegawai yang diserahi tugas untuk menerima, menyimpan, dan mengeluarkan barang;
+11. Pengurus Barang adalah Pegawai yang diserahi tugas untuk mengurus Barang Daerah dalam proses pemakaian yang ada di setiap satuan kerja perangkat/unit kerja ;
+12. Satuan Kerja Perangkat Daerah yang selanjutnya disebut SKPD adalah perangkat daerah selaku pengguna barang;
+13. Unit Kerja adalah bagian SKPD selaku kuasa pengguna barang;
+14. Perencanaan kebutuhan adalah kegiatan merumuskan rincian kebutuhan barang milik daerah untuk menghubungkan pengadaan barang yang telah lalu dengan keadaan yang sedang berjalan sebagai dasar dalam melakukan tindakan pemenuhan kebutuhan yang akan datang;
+15. Pengadaan adalah kegiatan untuk melakukan pemenuhan kebutuhan barang daerah dan jasa;
+16. Penyaluran adalah kegiatan untuk menyalurkan/pengiriman barang milik daerah dari gudang ke unit kerja pemakai;
+17. Pemeliharaan adalah kegiatan atau tindakan yang dilakukan agar semua barang milik daerah selalu dalam keadaan baik dan siap untuk digunakan secara berdaya guna dan berhasil guna;
+18. Pengamanan adalah kegiatan tindakan pengendalian dalam pengurusan barang milik daerah dalam bentuk fisik, administratif dan tindakan upaya hukum;
+19. Penggunaan adalah kegiatan yang dilakukan oleh pengguna/kuasa pengguna dalam mengelola dan menatausahakan barang milik daerah sesuai dengan tugas pokok dan fungsi Satuan Kerja Perangkat Daerah (SKPD) yang bersangkutan;
+20. Pemanfaatan adalah pendayagunaan barang milik daerah yang dipergunakan sesuai dengan tugas pokok dan fungsi Satuan Kerja Perangkat Daerah (SKPD) dalam bentuk sewa, pinjam pakai, kerjasama pemanfaatan, bangun guna serah dan bangun serah guna dengan tidak mengubah status kepemilikan;
+21. Sewa adalah pemanfaatan barang milik daerah oleh pihak lain dalam jangka waktu tertentu dengan menerima imbalan uang tunai;
+22. Pinjam pakai adalah penyerahan penggunaan barang antara Pemerintah Pusat dengan Pemerintah Daerah dan antar Pemerintah Daerah dalam jangka waktu tertentu tanpa menerima imbalan dan setelah jangka waktu tersebut berakhir diserahkan kembali kepada pengelola;
+23. Kerjasama pemanfaatan adalah pendayagunaan barang milik daerah oleh pihak lain dalam jangka waktu tertentu dalam rangka peningkatan penerimaan daerah bukan pajak/pendapatan daerah dan sumber pembiayaan lainnya;
+24. Bangun guna serah adalah pemanfaatan barang milik daerah berupa tanah oleh pihak lain dengan cara mendirikan bangunan dan/atau sarana berikut fasilitasnya, kemudian didayagunakan oleh pihak lain tersebut dalam jangka waktu tertentu yang telah disepakati, untuk selanjutnya diserahkan kembali tanah beserta bangunan dan/atau sarana berikut fasilitasnya setelah berakhirnya jangka waktu;
+25. Bangun serah guna adalah pemanfaatan barang milik daerah berupa tanah oleh pihak lain dengan cara mendirikan bangunan dan/atau sarana berikut fasilitasnya, dan setelah selesai pembangunannya diserahkan untuk didayagunakan oleh pihak lain tersebut dalam jangka waktu tertentu yang disepakati;
+26. Penghapusan adalah tindakan menghapus barang milik daerah dari daftar barang dengan menerbitkan surat keputusan dari pejabat yang berwenang untuk membebaskan pengguna dan/atau kuasa pengguna dan/atau pengelola dari tanggung jawab administrasi dan fisik atas barang yang berada dalam penguasaannya;
+27. Pemindahtanganan adalah pengalihan kepemilikan barang milik daerah sebagai tindak lanjut dari penghapusan dengan cara dijual, dipertukarkan, dihibahkan atau disertakan sebagai modal Pemerintah Daerah;
+28. Penjualan adalah pengalihan kepemilikan barang milik daerah kepada pihak lain dengan menerima penggantian dalam bentuk uang;
+29. Tukar menukar barang milik daerah/tukar guling adalah pengalihan kepemilikan barang milik daerah yang dilakukan antara Pemerintah Daerah dengan Pemerintah Pusat, antar Pemerintah Daerah, atau antara Pemerintah Daerah dengan pihak lain, dengan menerima penggantian dalam bentuk barang, sekurang-kurangnya dengan nilai seimbang;
+30. Hibah adalah pengalihan kepemilikan barang dari pemerintah daerah kepada pemerintah pusat, antar pemerintah daerah, atau dari pemerintah daerah kepada pihak lain, tanpa memperoleh penggantian;
+31. Penyertaan modal pemerintah daerah adalah pengalihan kepemilikan barang milik daerah yang semula merupakan kekayaan yang tidak dipisahkan menjadi kekayaan yang dipisahkan untuk diperhitungkan sebagai modal/saham daerah pada Badan Usaha Milik Negara/daerah atau badan hukum lainnya;
+32. Penatausahaan adalah rangkaian kegiatan yang meliputi pembukuan, inventarisasi dan pelaporan barang milik daerah sesuai dengan ketentuan yang berlaku;
+33. Inventarisasi adalah kegiatan untuk melakukan pendataan, pencatatan, dan pelaporan hasil pendataan barang milik daerah;
+34. Penilaian adalah suatu proses kegiatan penelitian yang selektif didasarkan pada data/fakta yang obyektif dan relevan dengan menggunakan metode/ teknis tertentu untuk memperoleh nilai barang milik daerah;
+35. Daftar barang pengguna yang selanjutnya disingkat dengan DBP adalah daftar yang memuat data barang yang digunakan oleh masing-masing pengguna;
+36. Daftar barang kuasa pengguna yang selanjutnya disingkat DBKP adalah daftar yang memuat data barang yang dimiliki oleh masing-masing kuasa pengguna;
+37. Standarisasi sarana dan prasarana kerja Pemerintahan Daerah adalah pembakuan ruang kantor, perlengkapan kantor, rumah dinas, kendaraan dinas dan lain- lain barang yang memerlukan standarisasi;
+38. Standarisasi harga adalah penetapan besaran harga barang sesuai jenis,spesifikasi dan kualitas dalam 1 (satu) periode tertentu.
