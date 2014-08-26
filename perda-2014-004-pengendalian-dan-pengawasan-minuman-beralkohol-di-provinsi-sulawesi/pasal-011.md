@@ -1,0 +1,2 @@
+# Pasal 11
+(1) Setiap orang dilarang membawa minuman beralkohol golongan A, golongan B dan golongan C dari luar negeri sebagai barang bawaan, kecuali untuk dikonsumsi sendiri paling banyak 1000 ml (seribu militer) per orang dengan isi kemasan tidak kurang dari 180 ml (seratus delapan puluh mililiter) (2) Pelanggaran terhadap ketentuan sebagaimana dimaksud pada ayat (1) dikenakan sanksi sesuai dengan peraturan perundang-undangan dibidang kepabeanan.

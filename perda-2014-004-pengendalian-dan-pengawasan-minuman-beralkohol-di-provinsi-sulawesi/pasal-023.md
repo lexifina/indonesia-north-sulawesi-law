@@ -1,0 +1,3 @@
+# Pasal 23
+(1) Semua minuman beralkohol yang diedarkan harus dimasukkan dalam botol/kemasan dengan terdaftar pada BPOM serta mencantumkan jenis minuman, kadar alkohol/etanol, volume minuman serta tulisan larangan minum bagi anak di bawah usia 21 (dua puluh satu) tahun dan wanita hamil.
+(2) Alokasi jenis dan jumlah minuman beralkohol golongan A, golongan B dan golongan C yang diedarkan wajib menggunakan label edar pada tingkat distributor oleh Badan Pengawas dan Pengendalian Minuman Beralkohol yang ditetapkan berdasarkan rekomendasi Tim Pengawasan dan Penerbitan yang ditetapkan dengan Keputusan Gubernur.
