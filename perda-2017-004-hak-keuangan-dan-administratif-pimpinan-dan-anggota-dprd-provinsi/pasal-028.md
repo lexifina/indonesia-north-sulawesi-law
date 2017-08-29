@@ -1,0 +1,2 @@
+# Pasal 28
+Pada saat Peraturan Daerah ini mulai berlaku, Peraturan Daerah Provinsi Sulawesi Utara Nomor 11 Tahun 2004 tentang Kedudukan Protokoler dan Keuangan Pimpinan dan Anggota Dewan Perwakilan Rakyat Daerah Propinsi Sulawesi Utara (Lembaran Daerah Provinsi Sulawesi Utara Tahun 2004 Nomor 4) sepanjang mengatur mengenai hak keuangan dan administratif Pimpinan dan Anggota DPRD dicabut dan dinyatakan tidak berlaku.
