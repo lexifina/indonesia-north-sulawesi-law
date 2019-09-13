@@ -1,0 +1,4 @@
+# Pasal 42
+(1) Pemohon IUP Eksplorasi dan IUP Operasi Produksi pada saat pengajuan permohonan izin, wajib menyusun dan menyerahkan rencana reklamasi dan rencana pascatambang, memenuhi prinsip perlindungan dan pengelolaan lingkungan hidup, keselamatan dan kesehatan kerja pertambangan serta konservasi, sesuai ketentuan peraturan perundang-undangan.
+(2) Rencana reklamasi dan pascatambang sebagaimana dimaksud pada ayat (1) merupakan bagian yang tidak terpisahkan dari persyaratan perizinan.
+(3) Rencana reklamasi dan rencana pascatambang sebagaimana dimaksud pada ayat (1) harus sesuai dengan dokumen lingkungan hidup yang disetujui instansi berwenang, sistem dan metode penambangan berdasarkan studi kelayakan, peruntukan lahan akhir sesuai tata ruang dan tata guna lahan, dan kondisi spesifik wilayah izin usaha pertambangan, berdasarkan ketentuan peraturan perundang-undangan.
