@@ -1,0 +1,4 @@
+# Pasal 21
+(1) Pemberi Bantuan Hukum dapat memfasilitasi Pemohon Bantuan Hukum bagi Masyarakat Miskin untuk memperoleh surat keterangan kependudukan dan/atau surat keterangan miskin atau dokumen lain dari instansi berwenang sesuai domisili Pemohon Bantuan Hukum dalam hal identitas dan/atau surat keterangan miskin sebagaimana dimaksud dalam Pasal 16 ayat (2) huruf d tidak dimiliki.
+(2) Dalam hal surat keterangan miskin sebagaimana dimaksud pada ayat (1) tidak diperoleh, Pemberi Bantuan Hukum dapat memfasilitasi Pemohon untuk memperoleh surat keterangan miskin berdasarkan domisili Pemberi Bantuan Hukum.
+(3) Fasilitasi untuk memperoleh surat keterangan kependudukan dan/atau surat keterangan miskin atau dokumen lain dari instansi berwenang sebagaimana dimaksud pada ayat (1), dapat dilaksanakan pada saat proses verifikasi permohonan Bantuan Hukum.
