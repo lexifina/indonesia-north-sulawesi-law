@@ -1,0 +1,5 @@
+# Pasal 200
+(1) Berdasarkan laporan analisis sebagaimana dimaksud dalam Pasal 199 ayat (1) dan/atau mempertimbangkan laporan Penilaian nilai wajar Barang Milik Daerah, Tim KSP menghitung besaran kontribusi tetap dan persentase pembagian keuntungan.
+(2) Penghitungan besaran kontribusi tetap dan persentase pembagian keuntungan oleh Tim KSP sebagaimana dimaksud pada ayat (1), dilakukan sesuai dengan ketentuan sebagaimana diatur dalam Pasal 180 sampai dengan Pasal 185.
+(3) Dalam hal usulan besaran kontribusi tetap dan persentase pembagian keuntungan yang diajukan oleh Pihak Lain lebih besar dari hasil perhitungan Tim KSP sebagaimana dimaksud pada ayat (2), besaran kontribusi tetap dan persentase pembagian keuntungan yang ditetapkan dalam persetujuan KSP adalah sebesar usulan besaran kontribusi tetap dan persentase pembagian keuntungan yang diajukan oleh Pihak Lain.
+(4) Besaran kontribusi tetap dan persentase pembagian keuntungan sebagaimana dimaksud pada ayat (1), dijadikan nilai limit terendah dalam pelaksanaan pemilihan mitra KSP.

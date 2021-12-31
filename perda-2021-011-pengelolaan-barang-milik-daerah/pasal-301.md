@@ -1,0 +1,6 @@
+# Pasal 301
+(1) Pengamanan hukum terhadap tanah yang belum memiliki sertifikat sebagaimana dimaksud dalam Pasal 299 ayat (4) huruf a, dilakukan dengan cara:
+a. dalam hal Barang Milik Daerah telah didukung oleh dokumen awal kepemilikan, maka Pengelola Barang/Pengguna Barang dan/atau Kuasa Pengguna Barang segera mengajukan permohonan penerbitan sertifikat atas nama Pemerintah Daerah kepada Badan Pertanahan Nasional/Kantor Wilayah Badan Pertanahan Nasional setempat/Kantor Pertanahan setempat sesuai dengan ketentuan peraturan perundang-undangan; dan b. dalam hal Barang Milik Daerah tidak didukung dengan Dokumen Kepemilikan, Pengelola Barang/Pengguna Barang dan/atau Kuasa Pengguna Barang mengupayakan untuk memperoleh dokumen awal kepemilikan seperti riwayat tanah.
+(2) Pengamanan hukum terhadap tanah yang sudah bersertifikat namun belum atas nama Pemerintah Daerah sebagaimana dimaksud dalam Pasal 298 ayat (4) huruf b, dilakukan dengan cara Pengelola Barang/Pengguna Barang dan/atau Kuasa Pengguna Barang segera mengajukan permohonan perubahan nama sertifikat hak atas tanah kepada kantor pertanahan setempat menjadi atas nama Pemerintah Daerah.
+Paragraf 3
+Tata Cara Pengamanan Gedung dan/atau Bangunan
