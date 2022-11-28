@@ -1,0 +1,3 @@
+# Pasal 20
+(1) Dalam hal pengelolaan TPAS Regional dan/atau SPA Regional dilaksanakan melalui perjanjian kerja sama antara Pemerintah Daerah atau pemerintah daerah kabupaten/kota dengan Badan Usaha, maka besaran pembayaran ketersediaan jasa pelayanan atau biaya jasa pengelolaan sampah mempertimbangkan besaran kompensasi jasa pelayanan yang dibayarkan oleh pengguna kepada penyedia TPAS Regional dan/atau SPA Regional.
+(2) Kenaikan ketersediaan jasa layanan atau biaya jasa pengelolaan sampah yang dibayarkan oleh Pemerintah Daerah kepada badan usaha, menjadi dasar pengaturan kenaikan pembayaran jasa kompensasi dari pengguna kepada penyedia jasa TPAS Regional dan/atau SPA Regional.
