@@ -1,0 +1,4 @@
+# Pasal 51
+(1) Belanja bantuan sosial sebagaimana dimaksud dalam Pasal 44 ayat (1) huruf f digunakan untuk menganggarkan pemberian bantuan berupa uang dan/atau barang kepada individu, keluarga, kelompok dan/atau masyarakat yang sifatnya tidak secara terus menerus dan selektif yang bertujuan untuk melindungi dari kemungkinan terjadinya risiko sosial, kecuali dalam keadaan tertentu dapat berkelanjutan.
+(2) Keadaan tertentu dapat berkelanjutan sebagaimana dimaksud pada ayat (1) diartikan bahwa bantuan sosial dapat diberikan setiap tahun anggaran sampai penerima bantuan telah lepas dari risiko sosial.
+(3) Belanja bantuan sosial sebagaimana dimaksud pada ayat (1) dianggarkan dalam APBD sesuai dengan kemampuan Keuangan Daerah setelah memprioritaskan pemenuhan belanja Urusan Pemerintahan Wajib dan Urusan Pemerintahan Pilihan, kecuali ditentukan lain sesuai dengan ketentuan peraturan perundang-undangan.

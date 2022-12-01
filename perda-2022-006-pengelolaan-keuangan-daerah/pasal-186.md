@@ -1,0 +1,2 @@
+# Pasal 186
+Pada saat Peraturan Daerah ini mulai berlaku, semua ketentuan peraturan perundang-undangan yang merupakan peraturan pelaksanaan dari Peraturan Daerah Nomor 8 Tahun 2006 tentang Pokok-Pokok Pengelolaan Keuangan Daerah (Lembaran Daerah Provinsi Sulawesi Utara Tahun 2006 Nomor 7, Tambahan Lembaran Daerah Provinsi Sulawesi Utara Nomor 7) dinyatakan masih tetap berlaku sepanjang tidak bertentangan dengan ketentuan dalam Peraturan Daerah ini.

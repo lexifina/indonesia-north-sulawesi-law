@@ -1,0 +1,3 @@
+# Pasal 36
+(1) Hibah sebagaimana dimaksud dalam Pasal 35 huruf a merupakan bantuan berupa uang, barang, dan/atau jasa yang berasal dari Pemerintah Pusat, pemerintah daerah lain, masyarakat, dan badan usaha dalam negeri atau luar negeri yang tidak mengikat untuk menunjang peningkatan penyelenggaraan Urusan Pemerintahan yang menjadi kewenangan Daerah sesuai dengan ketentuan peraturan perundang-undangan.
+(2) Hibah sebagaimana dimaksud pada ayat (1), termasuk sumbangan dari pihak lain yang tidak mengikat, tidak berdasarkan perhitungan tertentu, dan tidak mempunyai konsekuensi pengeluaran atau pengurangan kewajiban kepada penerima maupun pemberi serta tidak menyebabkan ekonomi biaya tinggi.

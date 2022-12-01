@@ -1,0 +1,22 @@
+# Pasal 5
+(1) Gubernur adalah pemegang kekuasaan Pengelolaan Keuangan Daerah.
+(2) Gubernur mewakili Pemerintah Daerah dalam kepemilikan kekayaan Daerah yang dipisahkan.
+(3) Pemegang kekuasaan Pengelolaan Keuangan Daerah sebagaimana dimaksud pada ayat (1) berwenang:
+a. menyusun Rancangan Peraturan Daerah tentang APBD, Rancangan Peraturan Daerah tentang perubahan APBD, dan Rancangan Peraturan Daerah tentang Pertanggungjawaban Pelaksanaan APBD;
+b. mengajukan Rancangan Peraturan Daerah tentang APBD, Rancangan Peraturan Daerah tentang perubahan APBD, dan Rancangan Peraturan Daerah tentang Pertanggungjawaban Pelaksanaan APBD kepada DPRD untuk dibahas bersama;
+c. menetapkan Peraturan Daerah tentang APBD, Rancangan Peraturan Daerah tentang Perubahan APBD, dan Rancangan Peraturan Daerah tentang Pertanggungjawaban Pelaksanaan APBD yang telah mendapat persetujuan bersama DPRD;
+d. menetapkan kebijakan terkait Pengelolaan Keuangan Daerah;
+e. mengambil tindakan tertentu dalam keadaan mendesak terkait Pengelolaan Keuangan Daerah yang sangat dibutuhkan oleh Daerah dan/atau masyarakat;
+f. menetapkan kebijakan pengelolaan APBD;
+g. menetapkan KPA;
+h. menetapkan Bendahara Penerimaan dan Bendahara Pengeluaran;
+i. menetapkan pejabat yang bertugas melakukan pemungutan Pajak Daerah dan Retribusi Daerah;
+j. menetapkan pejabat yang bertugas melakukan pengelolaan Utang dan Piutang Daerah;
+k. menetapkan pejabat yang bertugas melakukan pengujian atas tagihan dan memerintahkan pembayaran;
+l. menetapkan pejabat lainnya dalam rangka Pengelolaan Keuangan Daerah sesuai dengan ketentuan peraturan perundang-undangan; dan m. melaksanakan kewenangan lain sesuai dengan ketentuan peraturan perundang-undangan.
+(4) Dalam melaksanakan kekuasaan sebagaimana dimaksud pada ayat (1), Gubernur melimpahkan sebagian atau seluruh kekuasaannya yang berupa perencanaan, penganggaran, pelaksanaan, penatausahaan, pelaporan dan pertanggungjawaban, serta pengawasan Keuangan Daerah kepada Pejabat SKPD.
+(5) Pejabat SKPD sebagaimana dimaksud pada ayat (4) terdiri atas:
+a. koordinator Pengelolaan Keuangan Daerah;
+b. PPKD; dan c. PA.
+(6) Pelimpahan sebagian atau seluruh kekuasaan sebagaimana dimaksud pada ayat (4) didasarkan pada prinsip pemisahan kewenangan antara yang memerintahkan, menguji, dan menerima atau mengeluarkan uang.
+(7) Pelimpahan kekuasaan sebagaimana dimaksud pada ayat (4) ditetapkan dengan keputusan Gubernur.
