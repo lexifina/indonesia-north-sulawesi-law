@@ -1,0 +1,3 @@
+# Pasal 26
+(1) Satuan Pendidikan Khusus bagi peserta didik yang memiliki keberbakatan khusus sebagaimana dimaksud dalam Pasal 22 huruf b difungsikan untuk mengembangkan potensi keunggulan peserta didik menjadi prestasi nyata sesuai dengan karakteristik keistimewaannya.
+(2) Satuan Pendidikan Khusus bagi peserta didik yang memiliki potensi keberbakatan khusus sebagaimana dimaksud dalam Pasal 22 huruf b ditujukan untuk mengaktualisasikan seluruh potensi keistimewaannya tanpa mengabaikan keseimbangan perkembangan kecerdasan spiritual, intelektual, emosional, sosial, estetik, kinestetik, dan kecerdasan lain.
