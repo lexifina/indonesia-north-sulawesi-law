@@ -1,0 +1,20 @@
+# Penutup
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kota Tomohon.
+Ditetapkan di Tomohon
+pada tanggal 20 Januari 2026
+WALI KOTA TOMOHON,
+ttd.
+CAROLL JORAM AZARIAS SENDUK
+Diundangkan di Tomohon
+pada tanggal 20 Januari 2026
+SEKRETARIS DAERAH KOTA TOMOHON,
+ttd.
+EDWIN RORING
+LEMBARAN DAERAH KOTA TOMOHON TAHUN 2026 NOMOR 2
+NOREG PERATURAN DAERAH KOTA TOMOHON PROVINSI SULAWESI UTARA:
+(2/W.II/2026)
+SALINAN SESUAI DENGAN ASLINYA
+KEPALA BAGIAN HUKUM
+SEKRETARIAT DAERAH KOTA TOMOHON,
+B. R. MAMBU, S.H., M.H.
+NIP. 19880626 201001 1 002
