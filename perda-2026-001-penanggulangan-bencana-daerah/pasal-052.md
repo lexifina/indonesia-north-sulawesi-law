@@ -1,0 +1,4 @@
+# Pasal 52
+(1) Pelayanan pendidikan sebagaimana dimaksud dalam Pasal 45 ayat (1) huruf f ditujukan untuk membantu masyarakat yang terkena dampak bencana dalam rangka tetap terselenggaranya proses belajar mengajar pada tingkat pendidikan dasar dan menengah.
+(2) Upaya Pemulihan pelayanan pendidikan masyarakat sebagaimana dimaksud pada ayat (1), dilaksanakan melalui pusat kegiatan belajar mengajar dan/atau sekolah yang ditetapkan oleh instansi terkait dalam koordinasi BPBD.
+(3) Dalam hal gedung tempat pusat kegiatan belajar mengajar dan/atau sekolah sebagaimana dimaksud pada ayat (2) tidak memungkinkan untuk dilaksanakan proses belajar mengajar maka untuk sementara pelayanan pendidikan dilaksanakan di tempat lain yang memadai yang wajib disediakan oleh instansi/lembaga pemerintah terkait dengan berkoordinasi bersama BPBD.
