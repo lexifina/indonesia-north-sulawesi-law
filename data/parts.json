@@ -1,0 +1,34 @@
+{
+ "parts": {
+  "20-perda-01.json": {
+   "acts": [
+    "perda-2013-006-penambahan-penyertaan-modal-pada-pt-bank-sulut",
+    "perda-2014-002-pengelolaan-barang-milik-daerah",
+    "perda-2014-003-pendirian-badan-usaha-milik-daerah-pt-sulut-membangun",
+    "perda-2014-004-pengendalian-dan-pengawasan-minuman-beralkohol-di-provinsi-sulawesi",
+    "perda-2016-001-perubahan-atas-peraturan-daerah-provinsi-sulawesi-utara-nomor-7-tahun",
+    "perda-2016-004-pembentukan-dan-susunan-perangakat-daerah-provinsi-sulawesi-utara",
+    "perda-2016-006-pendirian-pt-membangun-sulut-hebat-perseroan-daerah",
+    "perda-2017-002-penyertaan-modal-pemerintah-provinsi-sulawesi-utara-kepada-pt",
+    "perda-2017-004-hak-keuangan-dan-administratif-pimpinan-dan-anggota-dprd-provinsi",
+    "perda-2019-003-pertambangan-mineral",
+    "perda-2021-008-perlindungan-dan-pemberdayaan-penyandang-disabilitas",
+    "perda-2021-009-bantuan-hukum-bagi-masyarakat-miskin",
+    "perda-2021-011-pengelolaan-barang-milik-daerah",
+    "perda-2022-001-irigasi",
+    "perda-2022-004-pengelolaan-tempat-pemrosesan-akhir-sampah-regioal",
+    "perda-2022-006-pengelolaan-keuangan-daerah",
+    "perda-2022-009-optimalisasi-penyelenggaraan-program-jaminan-sosial-ketenagakerjaan",
+    "perda-2023-003-penyelenggaran-pendidikan",
+    "perda-2023-005-perseroan-terbatas-penjamin-kredit-daerah",
+    "perda-2024-001-pajak-daerah-dan-retribusi-daerah",
+    "perda-2024-007-pelayanan-pemerintah-daerah-dalam-penyelenggaraan-ibadah-haji",
+    "perda-2024-008-perlindungan-dan-pelestarian-danau-tondano",
+    "perda-2024-009-perubahan-ketiga-atas-peraturan-daerah-nomor-4-tahun-2016-tentang",
+    "perda-2026-001-penanggulangan-bencana-daerah"
+   ],
+   "sha256": "9db0787e237c30ea95e248d905409de1a1835492766b491d5069d52fe21cf9e4"
+  }
+ },
+ "schema": 1
+}
