@@ -1,0 +1,8 @@
+{
+  "path": "id-sa",
+  "code": "ID-SA",
+  "name": "North Sulawesi (Indonesia)",
+  "level": "country",
+  "repo": "https://github.com/lexifina/indonesia-north-sulawesi-law",
+  "build": "built: Peraturan Daerah (Perda) of Provinsi Sulawesi Utara as enacted, Indonesian text, from JDIH Provinsi Sulawesi Utara (Biro Hukum Sekretariat Daerah Provinsi Sulawesi Utara)"
+}

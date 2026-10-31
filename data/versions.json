@@ -1,0 +1,341 @@
+{
+ "country": "ID-SA",
+ "acts": [
+  {
+   "slug": "perda-2013-006-penambahan-penyertaan-modal-pada-pt-bank-sulut",
+   "short": "Perda North Sulawesi 6/2013",
+   "title": "Peraturan Daerah Nomor 6 Tahun 2013 tentang Penambahan Penyertaan Modal pada PT. Bank Sulut",
+   "url": "https://jdih.sulutprov.cloud/dataset/peraturan-daerah-tahun-2013/resource/625a3bc4-7139-4461-8128-031dd9f0c048",
+   "versions": [
+    {
+     "from": "2013-12-23",
+     "units": 6,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/0bc1f588-7fb8-419a-8472-6aa4992d6040/resource/625a3bc4-7139-4461-8128-031dd9f0c048/download/perda-6_2013.pdf",
+     "sha256": "0c17b7b9e5d4f3dabeb6a88705c4737aae83b7069b4f1028f03f4fce6b26c2ac"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2014-002-pengelolaan-barang-milik-daerah",
+   "short": "Perda North Sulawesi 2/2014",
+   "title": "Peraturan Daerah Nomor 2 Tahun 2014 tentang Pengelolaan Barang Milik Daerah",
+   "url": "https://jdih.sulutprov.cloud/dataset/peraturan-daerah-tahun-2014/resource/312b3579-ed46-4130-888c-61ee550823ba",
+   "versions": [
+    {
+     "from": "2014-03-17",
+     "units": 90,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/c54005f2-210d-48c2-affe-694929bc234b/resource/312b3579-ed46-4130-888c-61ee550823ba/download/perda-2_2014.pdf",
+     "sha256": "429b1e4caf9d8c4c910e2220ef344e869c60ef9621a6e7d4e85bb9d4019972a6"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2014-003-pendirian-badan-usaha-milik-daerah-pt-sulut-membangun",
+   "short": "Perda North Sulawesi 3/2014",
+   "title": "Peraturan Daerah Nomor 3 Tahun 2014 tentang Pendirian Badan Usaha Milik Daerah PT. Sulut Membangun",
+   "url": "https://jdih.sulutprov.cloud/dataset/peraturan-daerah-tahun-2014/resource/129e62a1-38e8-47dc-ac94-7429e37b32aa",
+   "versions": [
+    {
+     "from": "2014-06-16",
+     "units": 23,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/c54005f2-210d-48c2-affe-694929bc234b/resource/129e62a1-38e8-47dc-ac94-7429e37b32aa/download/perda-3_2014.pdf",
+     "sha256": "f6ec33be8d3a065d5c9d31c5ff0928e0ad9b8173c2992cb59907c8e4b03bee86"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2014-004-pengendalian-dan-pengawasan-minuman-beralkohol-di-provinsi-sulawesi",
+   "short": "Perda North Sulawesi 4/2014",
+   "title": "Peraturan Daerah Nomor 4 Tahun 2014 tentang Pengendalian dan Pengawasan Minuman Beralkohol di Provinsi Sulawesi Utara",
+   "url": "https://jdih.sulutprov.cloud/dataset/peraturan-daerah-tahun-2014/resource/35cb85df-fa4c-47fb-b6d9-599be9f15066",
+   "versions": [
+    {
+     "from": "2014-08-26",
+     "units": 40,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/c54005f2-210d-48c2-affe-694929bc234b/resource/35cb85df-fa4c-47fb-b6d9-599be9f15066/download/perda-4_2014.pdf",
+     "sha256": "d4df2c717ac1f0b9678ed67f694ba2b322203b6a1787e9064652068b10c7584d"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2016-001-perubahan-atas-peraturan-daerah-provinsi-sulawesi-utara-nomor-7-tahun",
+   "short": "Perda North Sulawesi 1/2016",
+   "title": "Peraturan Daerah Nomor 1 Tahun 2016 tentang Perubahan Atas Peraturan Daerah Provinsi Sulawesi Utara Nomor 7 Tahun 2011 tentang Pajak Daerah",
+   "url": "https://jdih.sulutprov.cloud/dataset/peraturan-daerah-tahun-2016/resource/cf50e4c5-8296-47aa-b2aa-d6a7d2deb09b",
+   "versions": [
+    {
+     "from": "2016-01-23",
+     "units": 5,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/79c8b35e-5156-47c5-b863-cf784418dfad/resource/cf50e4c5-8296-47aa-b2aa-d6a7d2deb09b/download/perda-1_2016.pdf",
+     "sha256": "0d144ede73aaa5d397eb02a05ddc3cc96b545f8b5aa46178c63e75d40f0bcf41"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2016-004-pembentukan-dan-susunan-perangakat-daerah-provinsi-sulawesi-utara",
+   "short": "Perda North Sulawesi 4/2016",
+   "title": "Peraturan Daerah Nomor 4 Tahun 2016 tentang Pembentukan dan Susunan Perangakat Daerah Provinsi Sulawesi Utara",
+   "url": "https://jdih.sulutprov.cloud/dataset/peraturan-daerah-tahun-2016/resource/23341997-381d-4b2c-932c-f4f5b01834db",
+   "versions": [
+    {
+     "from": "2016-09-07",
+     "units": 22,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/79c8b35e-5156-47c5-b863-cf784418dfad/resource/23341997-381d-4b2c-932c-f4f5b01834db/download/perda-4_2016.pdf",
+     "sha256": "b05e589848f06f8f5bf9cd2419303ea103a5c6e641d9c3e276d4862d2599d64c"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2016-006-pendirian-pt-membangun-sulut-hebat-perseroan-daerah",
+   "short": "Perda North Sulawesi 6/2016",
+   "title": "Peraturan Daerah Nomor 6 Tahun 2016 tentang Pendirian PT. Membangun Sulut Hebat Perseroan Daerah",
+   "url": "https://jdih.sulutprov.cloud/dataset/peraturan-daerah-tahun-2016/resource/5b281410-bf56-487d-8ce5-16fb331b60ad",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 26,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/79c8b35e-5156-47c5-b863-cf784418dfad/resource/5b281410-bf56-487d-8ce5-16fb331b60ad/download/perda-6_2016-sulut-hebat.pdf",
+     "sha256": "0157a2d50648434448eb7dd502931de39688de64b8b542ad389b968822fc0673"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2017-002-penyertaan-modal-pemerintah-provinsi-sulawesi-utara-kepada-pt",
+   "short": "Perda North Sulawesi 2/2017",
+   "title": "Peraturan Daerah Nomor 2 Tahun 2017 tentang Penyertaan Modal Pemerintah Provinsi Sulawesi Utara Kepada PT. Membangun Sulut Hebat Perseroan Daerah",
+   "url": "https://jdih.sulutprov.cloud/dataset/peraturan-daerah-tahun-2017/resource/fbe10011-f976-413c-9393-0f0fe101ce98",
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "units": 12,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/b314f2ea-95b1-4ef1-a82f-db3a4bc87dc1/resource/fbe10011-f976-413c-9393-0f0fe101ce98/download/perda-2_2017.pdf",
+     "sha256": "0c2d217c0c8584e8c9fae4bd9820fbd404ac373dd02ff5abd16e1ad4dd54743c"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2017-004-hak-keuangan-dan-administratif-pimpinan-dan-anggota-dprd-provinsi",
+   "short": "Perda North Sulawesi 4/2017",
+   "title": "Peraturan Daerah Nomor 4 Tahun 2017 tentang Hak Keuangan dan Administratif Pimpinan dan Anggota DPRD Provinsi Sulawesi Utara",
+   "url": "https://jdih.sulutprov.cloud/dataset/peraturan-daerah-tahun-2017/resource/2a442a92-401d-46bf-8c14-55ea2cda9214",
+   "versions": [
+    {
+     "from": "2017-08-29",
+     "units": 32,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/b314f2ea-95b1-4ef1-a82f-db3a4bc87dc1/resource/2a442a92-401d-46bf-8c14-55ea2cda9214/download/perda-4_2017.pdf",
+     "sha256": "5b749098886cd13b6ce5989c7279450b0d67b99483fdfa02eba73e38270cc023"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2019-003-pertambangan-mineral",
+   "short": "Perda North Sulawesi 3/2019",
+   "title": "Peraturan Daerah Nomor 3 Tahun 2019 tentang Pertambangan Mineral",
+   "url": "https://jdih.sulutprov.cloud/dataset/peraturan-daerah-tahun-2019/resource/6d4dc480-ee55-4638-bd63-bb4e390cd93c",
+   "versions": [
+    {
+     "from": "2019-09-13",
+     "units": 82,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/e5e7de54-24bb-45aa-bc6a-925af8831989/resource/6d4dc480-ee55-4638-bd63-bb4e390cd93c/download/perda-3_2019.pdf",
+     "sha256": "7a3621e447898d03b68ce0201d6a3a3598382aed0d74e0358c9350b2f4cd5ac9"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2021-008-perlindungan-dan-pemberdayaan-penyandang-disabilitas",
+   "short": "Perda North Sulawesi 8/2021",
+   "title": "Peraturan Daerah Nomor 8 Tahun 2021 tentang Perlindungan dan Pemberdayaan Penyandang Disabilitas",
+   "url": "https://jdih.sulutprov.cloud/dataset/peraturan-daerah-tahun-2021/resource/df162c00-9b49-46b0-b444-d92756c928a9",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 74,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/b0b09107-6a37-4a2f-b716-50b0da585346/resource/df162c00-9b49-46b0-b444-d92756c928a9/download/perda-8_2021.pdf",
+     "sha256": "960a0c7dcc0c08563f168d190c0cfe971e2214768440b29818431515b4743335"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2021-009-bantuan-hukum-bagi-masyarakat-miskin",
+   "short": "Perda North Sulawesi 9/2021",
+   "title": "Peraturan Daerah Nomor 9 Tahun 2021 tentang Bantuan Hukum Bagi Masyarakat Miskin",
+   "url": "https://jdih.sulutprov.cloud/dataset/peraturan-daerah-tahun-2021/resource/aa3f1076-25dd-4ab9-9da0-33d9044728a6",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 33,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/b0b09107-6a37-4a2f-b716-50b0da585346/resource/aa3f1076-25dd-4ab9-9da0-33d9044728a6/download/perda-9_2021.pdf",
+     "sha256": "622c068d6bb6d39a2ebf18cb8c4a0b905e26f1051879e9bb8040bc53acc5ce72"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2021-011-pengelolaan-barang-milik-daerah",
+   "short": "Perda North Sulawesi 11/2021",
+   "title": "Peraturan Daerah Nomor 11 Tahun 2021 tentang Pengelolaan Barang Milik Daerah",
+   "url": "https://jdih.sulutprov.cloud/dataset/peraturan-daerah-tahun-2021/resource/a8ba5256-2f66-49f1-8864-8b0b8efe9109",
+   "versions": [
+    {
+     "from": "2021-12-31",
+     "units": 497,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/b0b09107-6a37-4a2f-b716-50b0da585346/resource/a8ba5256-2f66-49f1-8864-8b0b8efe9109/download/perda-11_2021.pdf",
+     "sha256": "81cecbfcba7450557d85ace7d0f19dbf1265699cef6b497bf3106e9eededc282"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2022-001-irigasi",
+   "short": "Perda North Sulawesi 1/2022",
+   "title": "Peraturan Daerah Nomor 1 Tahun 2022 tentang Irigasi",
+   "url": "https://jdih.sulutprov.cloud/dataset/peraturan-daerah-provinsi-tahun-2017/resource/6d19c0d9-d2a6-4d0a-b640-8c00ef11e475",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 72,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/2c313a39-c6cd-4f4e-a9e1-ee282b5c4b92/resource/6d19c0d9-d2a6-4d0a-b640-8c00ef11e475/download/perda-1_2022.pdf",
+     "sha256": "1358620d7c5c4a4cd2c24ea98763b3bfd9e12bf897c3b6a888e825adf347d0e1"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2022-004-pengelolaan-tempat-pemrosesan-akhir-sampah-regioal",
+   "short": "Perda North Sulawesi 4/2022",
+   "title": "Peraturan Daerah Nomor 4 Tahun 2022 tentang Pengelolaan Tempat Pemrosesan Akhir Sampah Regioal",
+   "url": "https://jdih.sulutprov.cloud/dataset/peraturan-daerah-provinsi-tahun-2017/resource/446ec08a-ad11-41df-8eb2-2b19784bccf5",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 48,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/2c313a39-c6cd-4f4e-a9e1-ee282b5c4b92/resource/446ec08a-ad11-41df-8eb2-2b19784bccf5/download/perda-4_2022.pdf",
+     "sha256": "43cb933803efa06130f46a52a4f4fb49e7b484f7dea5abc8fbdc0b94847a9653"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2022-006-pengelolaan-keuangan-daerah",
+   "short": "Perda North Sulawesi 6/2022",
+   "title": "Peraturan Daerah Nomor 6 Tahun 2022 tentang Pengelolaan Keuangan Daerah",
+   "url": "https://jdih.sulutprov.cloud/dataset/peraturan-daerah-provinsi-tahun-2017/resource/a97f9fb4-b9bd-4202-b73e-676f7a96be51",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "units": 191,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/2c313a39-c6cd-4f4e-a9e1-ee282b5c4b92/resource/a97f9fb4-b9bd-4202-b73e-676f7a96be51/download/perda-6_2022.pdf",
+     "sha256": "f3cea497dd8165ab104e2192e699b90d88536c53ac50578655e41fa54b893254"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2022-009-optimalisasi-penyelenggaraan-program-jaminan-sosial-ketenagakerjaan",
+   "short": "Perda North Sulawesi 9/2022",
+   "title": "Peraturan Daerah Nomor 9 Tahun 2022 tentang Optimalisasi Penyelenggaraan Program Jaminan Sosial Ketenagakerjaan",
+   "url": "https://jdih.sulutprov.cloud/dataset/peraturan-daerah-provinsi-tahun-2017/resource/53cb7a51-aee5-4dea-a7b2-e685b16019a3",
+   "versions": [
+    {
+     "from": "2022-12-30",
+     "units": 48,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/2c313a39-c6cd-4f4e-a9e1-ee282b5c4b92/resource/53cb7a51-aee5-4dea-a7b2-e685b16019a3/download/perda-9_2022.pdf",
+     "sha256": "cf76ab1be875cd131f6caffca74aa800869b40f72942981fcccea7b8e483e309"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2023-003-penyelenggaran-pendidikan",
+   "short": "Perda North Sulawesi 3/2023",
+   "title": "Peraturan Daerah Nomor 3 Tahun 2023 tentang Penyelenggaran Pendidikan",
+   "url": "https://jdih.sulutprov.cloud/dataset/peraturan-daerah-tahun-2025/resource/65db552f-b47f-4b91-a1fa-f044201f3d5d",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 122,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/a01a9610-45e0-414e-abdb-46671f68efa8/resource/65db552f-b47f-4b91-a1fa-f044201f3d5d/download/perda-3_2023.pdf",
+     "sha256": "12698508b9e111ac67cafea46678a0c6142e2f2c7612d7429efd7f32546a0422"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2023-005-perseroan-terbatas-penjamin-kredit-daerah",
+   "short": "Perda North Sulawesi 5/2023",
+   "title": "Peraturan Daerah Nomor 5 Tahun 2023 tentang Perseroan Terbatas Penjamin Kredit Daerah",
+   "url": "https://jdih.sulutprov.cloud/dataset/peraturan-daerah-tahun-2025/resource/4be68d5b-0346-49cc-b05b-e7b639ce1a60",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 32,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/a01a9610-45e0-414e-abdb-46671f68efa8/resource/4be68d5b-0346-49cc-b05b-e7b639ce1a60/download/perda-5_2023.pdf",
+     "sha256": "8a648058a28c82da7dc97c57b8e24198ea3a044a827be5406e12906263ad8515"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2024-001-pajak-daerah-dan-retribusi-daerah",
+   "short": "Perda North Sulawesi 1/2024",
+   "title": "Peraturan Daerah Nomor 1 Tahun 2024 tentang Pajak Daerah dan Retribusi Daerah",
+   "url": "https://jdih.sulutprov.cloud/dataset/peraturan-daerah-tahun-2024/resource/f9e7952c-b759-4de0-a393-2f6165528524",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 106,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/8da7e101-e4fd-4c34-9d2f-8bac7b42f4d9/resource/f9e7952c-b759-4de0-a393-2f6165528524/download/pdrd-fix-19022024.pdf",
+     "sha256": "5c6ed0715ba8ee9603fa475c50cabd841c518f066ca9f1800fddb27904a305c6"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2024-007-pelayanan-pemerintah-daerah-dalam-penyelenggaraan-ibadah-haji",
+   "short": "Perda North Sulawesi 7/2024",
+   "title": "Peraturan Daerah Nomor 7 Tahun 2024 tentang Pelayanan Pemerintah Daerah Dalam Penyelenggaraan Ibadah haji",
+   "url": "https://jdih.sulutprov.cloud/dataset/peraturan-daerah-tahun-2024/resource/b8c262a0-0a4a-4f37-8f07-097e62a4b84b",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 20,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/8da7e101-e4fd-4c34-9d2f-8bac7b42f4d9/resource/b8c262a0-0a4a-4f37-8f07-097e62a4b84b/download/perda-7_2024.pdf",
+     "sha256": "b1540e880c95d94e656208993b2a3e79377fb9fce2dc4e711cceefb7bd44b311"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2024-008-perlindungan-dan-pelestarian-danau-tondano",
+   "short": "Perda North Sulawesi 8/2024",
+   "title": "Peraturan Daerah Nomor 8 Tahun 2024 tentang Perlindungan dan Pelestarian Danau Tondano",
+   "url": "https://jdih.sulutprov.cloud/dataset/peraturan-daerah-tahun-2024/resource/85fb4e7c-ed5f-4b0b-a8aa-8a8821651015",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 38,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/8da7e101-e4fd-4c34-9d2f-8bac7b42f4d9/resource/85fb4e7c-ed5f-4b0b-a8aa-8a8821651015/download/perda-8_2024.pdf",
+     "sha256": "c3d9c7b87535dd8c2757805c47e2d7a84ea5c0461eab1375054280860658ad24"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2024-009-perubahan-ketiga-atas-peraturan-daerah-nomor-4-tahun-2016-tentang",
+   "short": "Perda North Sulawesi 9/2024",
+   "title": "Peraturan Daerah Nomor 9 Tahun 2024 tentang Perubahan Ketiga Atas Peraturan Daerah Nomor 4 Tahun 2016 tentang Pembentukan dan Susunan Perangkat Daerah Provinsi Sulawesi Utara",
+   "url": "https://jdih.sulutprov.cloud/dataset/peraturan-daerah-tahun-2024/resource/762c7a81-be84-4c69-9855-30cd744df0bf",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 4,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/8da7e101-e4fd-4c34-9d2f-8bac7b42f4d9/resource/762c7a81-be84-4c69-9855-30cd744df0bf/download/perda-9_2024.pdf",
+     "sha256": "cf18a4adc55fba49e76c7a4ffa5619ba038c657db701208cdaec919adb450b20"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2026-001-penanggulangan-bencana-daerah",
+   "short": "Perda North Sulawesi 1/2026",
+   "title": "Peraturan Daerah Nomor 1 Tahun 2026 tentang Penanggulangan Bencana Daerah",
+   "url": "https://jdih.sulutprov.cloud/dataset/peratuaran-daerah-tahun-2026/resource/0e253cbe-6a7d-43b8-976a-0638d24a9546",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 84,
+     "source_url": "https://jdih.sulutprov.cloud/dataset/afca3ce8-ce1e-493c-8f92-90b3946ce8f3/resource/0e253cbe-6a7d-43b8-976a-0638d24a9546/download/perda-1_2026.pdf",
+     "sha256": "820402cebfd10b5938c938895a2b5994324d213854c3b5c01c1d91e123343ba5"
+    }
+   ]
+  }
+ ]
+}
