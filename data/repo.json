@@ -3,5 +3,15 @@
  "name": "North Sulawesi (Indonesia)",
  "tz": "Asia/Makassar",
  "future_branch": "future",
- "publisher": "JDIH Provinsi Sulawesi Utara (Biro Hukum Sekretariat Daerah Provinsi Sulawesi Utara)"
+ "publisher": "JDIH Provinsi Sulawesi Utara (Biro Hukum Sekretariat Daerah Provinsi Sulawesi Utara)",
+ "units": [
+  {
+   "id": "tomohon",
+   "folder": "cities/tomohon",
+   "name": "Kota Tomohon",
+   "code": "ID-SA-TOMOHON",
+   "source": "jdih.tomohon.go.id",
+   "official_code": "71.73"
+  }
+ ]
 }

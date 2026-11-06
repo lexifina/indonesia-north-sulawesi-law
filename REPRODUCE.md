@@ -1,12 +1,13 @@
 # How this repository was made (North Sulawesi (Indonesia))
 
-This file is written by the build on 2026-10-31, the day the source data was retrieved.
+This file is written by the build on 2026-11-06, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | JDIH Provinsi Sulawesi Utara (Biro Hukum Sekretariat Daerah Provinsi Sulawesi Utara): Peraturan Daerah, each the published copy (salinan) as a PDF with a text layer | <https://jdih.sulutprov.cloud/group/peraturan-daerah> | 2026-10-31 | Peraturan Daerah of Provinsi Sulawesi Utara as published (salinan) on https://jdih.sulutprov.go.id. Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta, Pasal 42: "Tidak ada Hak Cipta atas hasil karya berupa: a. hasil rapat terbuka lembaga negara; b. peraturan perundang-undangan; c. pidato kenegaraan atau pidato pejabat Pemerintah; d. putusan pengadilan atau penetapan hakim; dan e. kitab suci atau simbol keagamaan." (There is no copyright in ... b. laws and regulations.) A Peraturan Daerah Provinsi is one of the peraturan perundang-undangan listed in Pasal 7(1) of Undang-Undang Nomor 12 Tahun 2011. |
+| JDIH Kota Tomohon (Bagian Hukum Sekretariat Daerah Kota Tomohon): Peraturan Daerah, each the published copy (salinan) as a PDF with a text layer | <https://jdih.tomohon.go.id> | 2026-11-06 | Peraturan Daerah of Kota Tomohon as published (salinan) on https://jdih.tomohon.go.id. Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta, Pasal 42: "Tidak ada Hak Cipta atas hasil karya berupa: a. hasil rapat terbuka lembaga negara; b. peraturan perundang-undangan; c. pidato kenegaraan atau pidato pejabat Pemerintah; d. putusan pengadilan atau penetapan hakim; dan e. kitab suci atau simbol keagamaan." (There is no copyright in ... b. laws and regulations.) A Peraturan Daerah Kabupaten/Kota is one of the peraturan perundang-undangan listed in Pasal 7(1) huruf g of Undang-Undang Nomor 12 Tahun 2011. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -38,20 +39,25 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `perda-2024-008-perlindungan-dan-pelestarian-danau-tondano` | Peraturan Daerah Nomor 8 Tahun 2024 tentang Perlindungan dan Pelestarian Danau Tondano | 1 | 2024-12-31 to 2024-12-31 |
 | `perda-2024-009-perubahan-ketiga-atas-peraturan-daerah-nomor-4-tahun-2016-tentang` | Peraturan Daerah Nomor 9 Tahun 2024 tentang Perubahan Ketiga Atas Peraturan Daerah Nomor 4 Tahun 2016 tentang Pembentukan dan Susunan Perangkat Daerah Provinsi Sulawesi Utara | 1 | 2024-12-31 to 2024-12-31 |
 | `perda-2026-001-penanggulangan-bencana-daerah` | Peraturan Daerah Nomor 1 Tahun 2026 tentang Penanggulangan Bencana Daerah | 1 | 2026-04-23 to 2026-04-23 |
+| `cities/tomohon/perda-2024-002-pedoman-pemberian-nama-jalan-fasilitas-umum-dan-penomoran-bangunan` | PERATURAN DAERAH KOTA TOMOHON NOMOR 2 TAHUN 2024 TENTANG PEDOMAN PEMBERIAN NAMA JALAN, FASILITAS UMUM, DAN PENOMORAN BANGUNAN GEDUNG | 1 | 2024-05-07 to 2024-05-07 |
+| `cities/tomohon/perda-2025-003-tata-cara-penyelenggaraan-cadangan-pangan-pemerintah-daerah` | PERATURAN DAERAH KOTA TOMOHON NOMOR 3 TAHUN 2025 TENTANG TATA CARA PENYELENGGARAAN CADANGAN PANGAN PEMERINTAH DAERAH | 1 | 2025-10-06 to 2025-10-06 |
+| `cities/tomohon/perda-2025-004-pembentukan-dan-susunan-perangkat-daerah` | PERATURAN DAERAH KOTA TOMOHON NOMOR 4 TAHUN 2025 TENTANG PEMBENTUKAN DAN SUSUNAN PERANGKAT DAERAH | 1 | 2025-10-06 to 2025-10-06 |
+| `cities/tomohon/perda-2026-002-perusahaan-umum-daerah-air-minum-zano-mahawu` | PERATURAN DAERAH KOTA TOMOHON NOMOR 2 TAHUN 2026 TENTANG PERUSAHAAN UMUM DAERAH AIR MINUM ZANO MAHAWU | 1 | 2026-01-20 to 2026-01-20 |
+| `cities/tomohon/perda-2026-003-pengelolaan-sampah` | PERATURAN DAERAH KOTA TOMOHON NOMOR 3 TAHUN 2026 TENTANG PENGELOLAAN SAMPAH | 1 | 2026-01-23 to 2026-01-23 |
 
-The build made 24 commits:
+The build made 29 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 24 | first version of an act |
+| 29 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-10-31.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1 laws in the record.
-- 24 tags.
+- 7 laws in the record.
+- 34 tags.
 
 ## Dates
 
@@ -63,18 +69,24 @@ When a law gives no date of its own, the default rule applies: A Peraturan Daera
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `037b617f12c62c0544c6856d275b2f260e5e118fad93613dbce7982b4b03af06` (1697244 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `1780f418c708db3f41b3f7156065bd2d92677f804a466c8cd385352d6759c5ec` (1891777 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-24 versions of 24 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+29 versions of 29 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
+- Oldest version available: each Peraturan Daerah is one version, its text as enacted (the published copy, salinan), credited to the JDIH publisher (first_law null), not to an amending law. An amending Perda is recorded as an act of its own; its changes are not replayed into the Perda it amends, and a repeal is not applied.
+- Dated by the day the Perda takes effect under its own last Pasal: the promulgation day (diundangkan, printed in the closing) when it says "mulai berlaku pada tanggal diundangkan", or the calendar day it names. A Perda whose commencement is a period or another event is left out for now.
+- Parts are added oldest first, so each part only adds history after the last one.
+- Units: a-pembukaan (heading, preamble, enacting words), one file per Pasal (chapter, part and paragraph headings printed between two Pasal stay at the end of the earlier one, in printed order), z1-penutup (promulgation order, signatures, Lembaran Daerah number, certification), z2-penjelasan (the elucidation) and z3-lampiran (the annex) where printed. One paragraph per line.
+- Left out of the text: page numbers and the "SALINAN" stamp line. Text-layer PDFs only (no OCR): scans are left out.
+- Every Perda is checked by a second PDF reader (pdftotext): each paragraph of the record, letters and digits only, must be one unbroken stretch of the PDF, and together they must cover the whole PDF with nothing left over except page numbers and the stamp. A Perda that fails is left out.
 - Oldest version available: each Peraturan Daerah is one version, its text as enacted (the published copy, salinan), credited to the JDIH publisher (first_law null), not to an amending law. An amending Perda is recorded as an act of its own; its changes are not replayed into the Perda it amends, and a repeal is not applied.
 - Dated by the day the Perda takes effect under its own last Pasal: the promulgation day (diundangkan, printed in the closing) when it says "mulai berlaku pada tanggal diundangkan", or the calendar day it names. A Perda whose commencement is a period or another event is left out for now.
 - Parts are added oldest first, so each part only adds history after the last one.
@@ -91,4 +103,5 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the PDFs published on JDIH.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the PDFs published on JDIH.

@@ -28,6 +28,16 @@
     "perda-2026-001-penanggulangan-bencana-daerah"
    ],
    "sha256": "9db0787e237c30ea95e248d905409de1a1835492766b491d5069d52fe21cf9e4"
+  },
+  "40-tomohon.json": {
+   "acts": [
+    "cities/tomohon/perda-2024-002-pedoman-pemberian-nama-jalan-fasilitas-umum-dan-penomoran-bangunan",
+    "cities/tomohon/perda-2025-003-tata-cara-penyelenggaraan-cadangan-pangan-pemerintah-daerah",
+    "cities/tomohon/perda-2025-004-pembentukan-dan-susunan-perangkat-daerah",
+    "cities/tomohon/perda-2026-002-perusahaan-umum-daerah-air-minum-zano-mahawu",
+    "cities/tomohon/perda-2026-003-pengelolaan-sampah"
+   ],
+   "sha256": "9974ec01bf32d6cd8a6bbb38b9799fb2a0ca2c5512fd341a3c1b7767f11a2b7e"
   }
  },
  "schema": 1

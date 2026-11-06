@@ -336,6 +336,81 @@
      "sha256": "820402cebfd10b5938c938895a2b5994324d213854c3b5c01c1d91e123343ba5"
     }
    ]
+  },
+  {
+   "slug": "cities/tomohon/perda-2024-002-pedoman-pemberian-nama-jalan-fasilitas-umum-dan-penomoran-bangunan",
+   "unit": "tomohon",
+   "short": "Perda Tomohon City 2/2024",
+   "title": "PERATURAN DAERAH KOTA TOMOHON NOMOR 2 TAHUN 2024 TENTANG PEDOMAN PEMBERIAN NAMA JALAN, FASILITAS UMUM, DAN PENOMORAN BANGUNAN GEDUNG",
+   "url": "https://jdih.tomohon.go.id/dokumen/view?id=27",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 22,
+     "source_url": "https://jdih.tomohon.go.id/common/dokumen/2024pd7114002.pdf",
+     "sha256": "be62ea6b133d10a1c2d1d7176482902d9793f280ba7112bb6a646b3c810c338e"
+    }
+   ]
+  },
+  {
+   "slug": "cities/tomohon/perda-2025-003-tata-cara-penyelenggaraan-cadangan-pangan-pemerintah-daerah",
+   "unit": "tomohon",
+   "short": "Perda Tomohon City 3/2025",
+   "title": "PERATURAN DAERAH KOTA TOMOHON NOMOR 3 TAHUN 2025 TENTANG TATA CARA PENYELENGGARAAN CADANGAN PANGAN PEMERINTAH DAERAH",
+   "url": "https://jdih.tomohon.go.id/dokumen/view?id=12",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 28,
+     "source_url": "https://jdih.tomohon.go.id/common/dokumen/2025pd7114003.pdf",
+     "sha256": "8828aa2a2f675eba57b745bee1f5d88f8d6c07e5896a24087b94c7c982d47f5b"
+    }
+   ]
+  },
+  {
+   "slug": "cities/tomohon/perda-2025-004-pembentukan-dan-susunan-perangkat-daerah",
+   "unit": "tomohon",
+   "short": "Perda Tomohon City 4/2025",
+   "title": "PERATURAN DAERAH KOTA TOMOHON NOMOR 4 TAHUN 2025 TENTANG PEMBENTUKAN DAN SUSUNAN PERANGKAT DAERAH",
+   "url": "https://jdih.tomohon.go.id/dokumen/view?id=10",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 13,
+     "source_url": "https://jdih.tomohon.go.id/common/dokumen/2025pd7114004.pdf",
+     "sha256": "f994c7edb80d93ec376a78505e82b9b6a4c436c0a95417ac706255da9ed973e4"
+    }
+   ]
+  },
+  {
+   "slug": "cities/tomohon/perda-2026-002-perusahaan-umum-daerah-air-minum-zano-mahawu",
+   "unit": "tomohon",
+   "short": "Perda Tomohon City 2/2026",
+   "title": "PERATURAN DAERAH KOTA TOMOHON NOMOR 2 TAHUN 2026 TENTANG PERUSAHAAN UMUM DAERAH AIR MINUM ZANO MAHAWU",
+   "url": "https://jdih.tomohon.go.id/dokumen/view?id=62",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 101,
+     "source_url": "https://jdih.tomohon.go.id/common/dokumen/2026pd7114002.pdf",
+     "sha256": "dd8560830e84591f641e017966542f7a786375ea023632b9a8ee7cdef24b5030"
+    }
+   ]
+  },
+  {
+   "slug": "cities/tomohon/perda-2026-003-pengelolaan-sampah",
+   "unit": "tomohon",
+   "short": "Perda Tomohon City 3/2026",
+   "title": "PERATURAN DAERAH KOTA TOMOHON NOMOR 3 TAHUN 2026 TENTANG PENGELOLAAN SAMPAH",
+   "url": "https://jdih.tomohon.go.id/dokumen/view?id=63",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 56,
+     "source_url": "https://jdih.tomohon.go.id/common/dokumen/2026pd7114003.pdf",
+     "sha256": "5d02d41190bed2ea66bc0181577a6e657fe74f5d39d53a6091ad229ffa952230"
+    }
+   ]
   }
  ]
 }
